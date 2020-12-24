@@ -14,6 +14,7 @@ This is a progressive web application that allows the user to use the applicatio
 * Mongoose ODM
 * IndexedDB
 * MongoDB
+* Service Worker
 
 <br>
 
