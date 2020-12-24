@@ -6,8 +6,7 @@
 ## Description:<br>
 This is a progressive web application that allows the user to use the application even without internet connection thanks to service workers and indexedDB! This PWA is useful for keeping track of your budget by allowing users to visualize their recent transactions with an interactive graphing tool! The user may also install this app directly onto their desktop or phone! <br><br>
 
-
-## Technologies used:
+## Technologies Used:
 
 * Javascript
 * HTML5
@@ -16,7 +15,7 @@ This is a progressive web application that allows the user to use the applicatio
 * IndexedDB
 * MongoDB
 
-<br><br>
+<br>
 
 ## Usage:
 Checkout the deployed site at the link below!
@@ -24,6 +23,9 @@ Checkout the deployed site at the link below!
 https://cryptic-ridge-87336.herokuapp.com/
 <br><br>
 
+
+## Screenshot:
+![](./Screenshot.png)
 
 ## License:
 
